@@ -1,4 +1,4 @@
-const cacheName = "kleich-w3-1.0.3";
+const cacheName = "kleich-w4-1.0.3";
 const contentToCache = [
     "Build/Builds.loader.js",
     "Build/Builds.framework.js.unityweb",
